@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Adapt Ads
-Plugin URI: http://adaptads.com
+Plugin URI: http://johncook.org
 Description: Create ad images with text sections that can be replaced.
 Version: 1.0
 Author: John Cook
